@@ -1,0 +1,6 @@
+to use the record class,
+the classes that extends Record,
+must be in the same structure as the table.
+class name must be the same as table name
+and all fields that the table has must be public.
+all the fields that the object have and the table doesnt, must be private/protected.
